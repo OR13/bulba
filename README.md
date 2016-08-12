@@ -1,6 +1,6 @@
 # Tessel 2 Example
 
-![Radiation](/radiator.jpg)
+![Radiation](/state-radiator.jpg)
 
 #### Install Dependencies
 
